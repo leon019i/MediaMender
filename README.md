@@ -2,7 +2,7 @@
 
 MediaMender is a simple yet powerful Python script designed to automate the process of renaming `.mp4` files in a directory. It uses a list of new names provided in a notepad (.txt) file, where each line corresponds to the new name for each `.mp4` file. The script enhances file organization and saves substantial time and effort that would otherwise be spent on manual renaming.
 
-![MediaMender Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FMediaRepair67%2F&psig=AOvVaw1FBoJYTiwxiMfMMZd7vQF9&ust=1712461617501000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiFiOXWrIUDFQAAAAAdAAAAABAE)
+![MediaMender Logo](https://github.com/leon019i/MediaMender/assets/84818419/2769f903-b673-47b0-84eb-58935ac2acca)
 
 ## Features 🌟
 
