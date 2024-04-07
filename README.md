@@ -54,9 +54,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📬
 
-Your Name - [Your Email](mailto:leonlord0@gmail.com)
+Loay Fayez - [leonlord0@gmail.com](mailto:leonlord0@gmail.com)
 
-Project Link: [[https://github.com/yourusername/MediaMender](https://github.com/leon019i/MediaMender)](https://github.com/leon019i/MediaMender)
+Project Link: [https://github.com/yourusername/MediaMender](https://github.com/leon019i/MediaMender)
 
 
 
